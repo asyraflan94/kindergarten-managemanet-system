@@ -1,3 +1,6 @@
+# About this System
+Kindergarten management system build to improve the traditional system used in the local kindergarten with the main implementation of CRUD function through the system.
+
 # Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
